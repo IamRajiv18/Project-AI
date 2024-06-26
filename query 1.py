@@ -11,8 +11,5 @@ def takeCommand1():
         return "None"
     return query1
 
-    elif 'shutdown' in query1:
-        speak('ok sir')
-        break
     
     

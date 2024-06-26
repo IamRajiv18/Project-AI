@@ -128,6 +128,10 @@ while True:
                 speak("ok sir you can ask me any time")
                 break
 
+            elif 'shutdown' in query1:
+                speak('ok sir')
+                break
+    
 
             else:
                 speak("sorry sir i have not caught your words please say again ")
